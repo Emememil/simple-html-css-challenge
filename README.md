@@ -4,8 +4,7 @@ This repository contains the completed submission for a front-end development ch
 This project showcases fundamental skills in semantic structuring, modern styling, and client-side interactivity, serving as a clean, functional work sample.
 🚀 Live Demo
 
-View the live, hosted version here: [INSERT YOUR GITHUB PAGES LIVE LINK HERE]
-🛠️ Technology Stack
+Technology Stack
 
 HTML5: Used for providing clear, semantic structure to the entire page content.
 CSS3 (Pure): Utilized for responsive layout, visual design, and clean styling, without relying on external libraries or frameworks.
